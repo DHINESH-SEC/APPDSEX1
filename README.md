@@ -51,6 +51,8 @@ df.describe()
 ```
 ![image](https://github.com/user-attachments/assets/56e35627-4d3e-4803-acf7-735402cfc6d4)
 ```
+![Screenshot 2024-09-12 083656](https://github.com/user-attachments/assets/660066ea-d249-42d0-adcc-06ad8faec5a8)
+
 # Identify the quartiles
 q1, q3= np.percentile (df[ 'Age'], [25, 75])
 # Calculate the interquartile range
